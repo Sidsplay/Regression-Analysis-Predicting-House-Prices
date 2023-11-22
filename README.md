@@ -1,9 +1,3 @@
-# Regression-Analysis-Predicting-House-Prices
-
-Certainly! Here's a simple README file for the provided regression analysis code:
-
----
-
 # Regression Analysis: Predicting House Prices
 
 ## Overview
